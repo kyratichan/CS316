@@ -4,7 +4,7 @@
 Standard Option
 
 ### Team Members
-Chaoyi Zha
-Henry Mukherji
-Kyra Chan
-Thomas Quintanilla
+Chaoyi Zha\n
+Henry Mukherji\n
+Kyra Chan\n
+Thomas Quintanilla\n
