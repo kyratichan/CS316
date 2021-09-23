@@ -1,6 +1,6 @@
 # CS316
 
-### Team Name: TBD
+### Team Bees
 Standard Option
 
 ### Team Members
