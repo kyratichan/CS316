@@ -1,6 +1,6 @@
 # CS316
 
-### Team Bees
+### Team Bees 🐝
 Standard Option
 
 ### Team Members
