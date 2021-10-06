@@ -7,4 +7,5 @@ Standard Option
 Chaoyi Zha <br />
 Henry Mukherji <br />
 Kyra Chan <br />
-Thomas Quintanilla
+Thomas Quintanilla <br />
+Holly He
